@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+solc-static-linux-*
+solc-static-*
+solc*
+*.zip
+*.tar.gz
+*.lz4
+*.bin
